@@ -1,5 +1,9 @@
 # NazliHllYsr
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Automation%20Engineer;Nazlı%20Hilal%20YAŞAR;&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
+
 ### 🚀 Skills:
 [<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
